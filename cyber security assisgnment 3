@@ -1,6 +1,13 @@
 hi sir as you said i saw the commands regarding metasploit.i used both msfconsole for exploting and msfvenom for creating the payloads.
 
-this is what i done sir 
+this is what i noted as a notes sir
+
+metasploit has msfconsole and msfvenom
+msfconsole is used for exploting with already available tools but where comes to msfvenom it is used for creating our own payloads
+metaspolit is owned by rapid 7
+msfvenom  has two shells they are bind shell and reverse shell 
+bind shell =we need to coonect to the target after installation of payload or a virus
+reverse shell= target is want to coonect to our system after installation of virus or a payload 
 
 msfconsole      
                                                   
